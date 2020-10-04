@@ -1,6 +1,5 @@
-# Week-6-Lab
-Week 6 Lab exercises
+Created by Jin Jin Wu(jiw177), Qizhe Wang(qzw68)
+Welcome to our python program! Here, we will be asking for the users' name and major. Our program also allows the user to play a guessing the number game.
 
-Our program is asking for the users' name and major.
+Getting started:
 
-Group members: Jin Jin Wu(19jinjinwu), Qizhe Wang(qzw68)
