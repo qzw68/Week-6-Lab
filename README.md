@@ -35,4 +35,4 @@ I chose the AFL liscense because my code was fairly straightforward and simple c
 I chose the Contributor Covenant Code of Conduct because I did not want to discriminate anyone in contributing to my project. Through shared thinking, knowledge, and development, we can all learn from each other. I do not tolerate any means of judgement or harrassment.
 
 ## Contributers
-Created by Jin Jin Wu(jiw177)
+Jin Jin Wu (jiw177)
