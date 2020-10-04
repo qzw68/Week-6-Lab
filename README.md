@@ -14,13 +14,25 @@ Bob's Major is: Computer Science
 Jill's Major is: Information Science
 ```
 Guess the Number Game
+*Assuming random.randint returned 8*
 ```
-*random.randint returned 8
 Guess a number I'm thinking of between 1 and 10: 5
 Too low! Try again
 Guess a number I'm thinking of between 1 and 10: 8
 Congratulations! You guessed correctly. +10 Bonus points on next test.
 ```
+![](https://media.tenor.com/images/51dba2e9eabb2af35249113b3dd604a0/tenor.gif)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+
+## Code of Conduct
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct.
+
+## Choice of license and code of conduct
+I chose the AFL liscense because my code was fairly straightforward and simple code that are taught to Python beginner learners. Thus, anyone is allowed to use, modify and redistribute as long as I am not held liable for their own actions.
+
+I chose the Contributor Covenant Code of Conduct because I did not want to discriminate anyone in contributing to my project. Through shared thinking, knowledge, and development, we can all learn from each other. I do not tolerate any means of judgement or harrassment.
 
 ## Contributers
-Created by Jin Jin Wu(jiw177), Qizhe Wang(qzw68)
+Created by Jin Jin Wu(jiw177)
