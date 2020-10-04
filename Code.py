@@ -15,7 +15,7 @@ for name,major in zip(nameList,majorList):
 guess = 0
 number = random.randint(1, 10)
 while guess < 5:
-  user_number = int(input("Guess a number I'm thinking of between 1 and 10"))
+  user_number = int(input("Guess a number I'm thinking of between 1 and 10: "))
   guess += 1
   if user_number < number: 
     print("Too low! Try again.")
