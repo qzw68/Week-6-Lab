@@ -27,7 +27,7 @@ Congratulations! You guessed correctly. +10 Bonus points on next test.
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Code of Conduct
-See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our code of conduct.
+This project follows the Contributor Covenant Code of Conduct. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
 
 ## Choice of license and code of conduct
 I chose the AFL liscense because my code was fairly straightforward and simple code that are taught to Python beginner learners. Thus, anyone is allowed to use, modify and redistribute as long as I am not held liable for their own actions.
